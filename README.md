@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Created By:
 Patrick Goulding (https://github.com/pgoulding) & David Engel (https://github.com/David5280)
-
+[![Build Status](https://travis-ci.org/David5280/palette-picker-fe.svg?branch=master)](https://travis-ci.org/David5280/palette-picker-fe)
 ## Summary
 
 PALETTE! PICKER FE is an application for designers, color enthusiasts, and those who just need some help picking a color scheme for their next project.  For information on the PALETTE! PICKER back-end server, visit [PALETTE! PICKER BE](https://github.com/pgoulding/palette-picker-be).
